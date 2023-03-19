@@ -37,6 +37,8 @@
 <hr>
 <p>
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
