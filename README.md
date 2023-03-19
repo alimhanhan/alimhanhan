@@ -4,7 +4,7 @@
 ###  💎Have a great day!💎
 
 ![Leona's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimhanhan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimhanhan&layout=compact)](https://github.com/alimhanhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimhanhan&layout=compact&theme=dark)](https://github.com/alimhanhan/github-readme-stats)
 
 <br>
 <h3># Tech Stack</h3>
@@ -54,5 +54,3 @@
   <a href="mailto:mw113232@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=000000"/></a>&nbsp
 </p>
-
-<img src="http://mazandi.herokuapp.com/api?handle={convertme11}&theme=warm"/>
