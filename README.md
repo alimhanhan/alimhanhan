@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FE2E64&height=200&section=header&text=Welcome to my GitHub!%&fontSize=60&fontColor=D8D8D8" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FE2E64&height=200&section=header&text=Welcome to my GitHub!%&fontSize=40&fontColor=FFFFFF&rotate=13&fontAlign=65&fontAlignY=41" />
 
 <br><br>
 ###  💎Have a great day!💎
@@ -54,3 +54,4 @@
   <a href="mailto:mw113232@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=000000"/></a>&nbsp
 </p>
+
