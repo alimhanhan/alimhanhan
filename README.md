@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 </p>
-<hr>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/></a>&nbsp
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp
 </p>
-<hr>
 <p>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
@@ -39,13 +37,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=000000"/></a>&nbsp
 </p>
-<hr>
 <p>
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>&nbsp
 </p>
-
 <br>
 <h3># SNS & Messenger & Blog</h3>
 <p>
