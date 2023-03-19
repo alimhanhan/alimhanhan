@@ -4,7 +4,7 @@
 ###  💎Have a great day!💎
 
 ![Leona's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimhanhan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimhanhan&layout=compact&theme=dark&langs_count=10&card_width=500)](https://github.com/alimhanhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimhanhan&layout=compact&theme=dark&langs_count=10&card_width=430)](https://github.com/alimhanhan/github-readme-stats)
 
 <br>
 <h3># Tech Stack</h3>
