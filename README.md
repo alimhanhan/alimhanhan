@@ -3,8 +3,8 @@
 <br><br>
 ###  💎All About my GitHub!💎
 
-![Leona's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimhanhan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimhanhan&layout=compact&theme=dark&langs_count=10&card_width=350)](https://github.com/alimhanhan/github-readme-stats)
+![Leona's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimhanhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <br>
 <h3># Tech Stack</h3>
