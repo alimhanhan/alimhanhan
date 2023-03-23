@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=000000"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>&nbsp
-  <a href="https://alim11.tistory.com/"><img src="https://img.shields.io/badge/Personal%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://alim11.tistory.com/"><img src="https://img.shields.io/badge/Personal%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://alim11.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/convertme11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:mw113232@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mw113232@gmail.com"/></a>
   <a href="mailto:alim11@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=alim11@naver.com"/></a>
