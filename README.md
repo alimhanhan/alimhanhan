@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=000000"/></a>&nbsp
   <img src="https://img.shields.io/badge/Burp Suite-00979D?style=flat-square&logo=Buefy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></a>&nbsp
 </p>
 <p>
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>&nbsp
