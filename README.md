@@ -6,7 +6,7 @@
 ![Leona's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimhanhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <br>
-<h3># Tech Stack</h3>
+<h3># Technologies I've Experienced</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
@@ -43,7 +43,6 @@
 <p>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=000000"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>&nbsp
   <a href="https://alim11.tistory.com/"><img src="https://img.shields.io/badge/Personal%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://alim11.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/convertme11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
