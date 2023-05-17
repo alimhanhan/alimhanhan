@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FE2E64&height=200&section=header&text=Welcome to my GitHub!%&fontSize=40&fontColor=FFFFFF&rotate=13&fontAlign=65&fontAlignY=41" />
 
-### 💎All About my GitHub!💎
+### 💎All About my `GitHub!`💎
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimhanhan&layout=compact&theme=dark&langs_count=10&card_width=360)](https://github.com/alimhanhan/github-readme-stats)
 ![Leona's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimhanhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
