@@ -6,6 +6,8 @@
 <img height="180em" src="https://github-readme-stats-alimhanhan.vercel.app/api?username=alimhanhan&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats-alimhanhan.vercel.app/api/top-langs/?username=alimhanhan&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=10&card_width=490" />
 </p>
++ If GitHub Stats are not visible, please refresh the page!
+</p>
 <br>
 <h3># Technologies I've Experienced</h3>
 <p>
