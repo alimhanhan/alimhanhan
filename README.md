@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=FE2E64&height=200&section=header&text=Welcome to my GitHub!%&fontSize=40&fontColor=FFFFFF&fontAlign=70&fontAlignY=41" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=DF013A&height=200&section=header&text=Welcome to my GitHub!%&fontSize=40&fontColor=FFFFFF&fontAlign=70&fontAlignY=41" />
 
 
 ### 💎All About my `GitHub!`💎
