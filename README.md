@@ -13,7 +13,7 @@
 ➡️ If GitHub Stats are not visible, please refresh the page!
 </p>
 <br>
-<h3># What I've Experienced</h3>
+<h3># What I've Experienced</h3><hr>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=white"/></a>&nbsp
 </p>
 <br>
-<h3># SNS & Messenger & Blog</h3>
+<h3># SNS & Messenger & Blog</h3><hr>
 <p>
   <a href="https://alim11.tistory.com/"><img src="https://img.shields.io/badge/Personal%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://alim11.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/convertme11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
