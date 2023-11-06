@@ -7,9 +7,6 @@
 <img height="180em" src="https://github-readme-stats-pedz-alimhanhan.vercel.app/api?username=alimhanhan&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats-pedz-alimhanhan.vercel.app/api/top-langs/?username=alimhanhan&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=10&card_width=490" />
 </p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=convertme11)](https://solved.ac/convertme11/)
-
 ➡️ If GitHub Stats are not visible, please refresh the page!
 </p>
 <br>
