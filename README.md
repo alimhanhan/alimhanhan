@@ -68,14 +68,16 @@
   <td><img src="https://img.shields.io/badge/Burp Suite-00979D?style=flat-square&logo=Buefy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></a>&nbsp</td>
   </tr>
-<tr>
+   <tr>
     <th>IDE</th>
-    <td><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=FFFFFF"/></a>&nbsp
+    <td colspan="3"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/></a>&nbsp</td>
+  </tr>
+  <tr>
   <th>Extra</th>
-  <td><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+  <td colspan="3"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=white"/></a>&nbsp</td>
   </tr>
 </table>
