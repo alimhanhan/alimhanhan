@@ -73,8 +73,10 @@
   </tr>
   <tr>
   <th>Extra</th>
-  <td colspan="3"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=white"/></a>&nbsp</td>
+  <td colspan="3">
+  <img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SketchUp Viewer-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/></a>&nbsp</td>
   </tr>
 </table>
 <br><br>
