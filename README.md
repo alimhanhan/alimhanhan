@@ -10,8 +10,7 @@
 ➡️ If GitHub Stats are not visible, please refresh the page!
 </p>
 <br>
-<h3># What I've Experienced</h3>
-
+<h2># What I've Experienced</h2>
 <table border="1" style="width: 100%;">
   <tr>
     <th>Languages</th>
@@ -80,7 +79,7 @@
 </table>
 <br><br>
 
-<h3># SNS & Messenger & Blog</h3>
+<h2># SNS & Messenger & Blog</h2>
 <p>
   <a href="https://alim11.tistory.com/"><img src="https://img.shields.io/badge/Personal%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://alim11.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/convertme11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
