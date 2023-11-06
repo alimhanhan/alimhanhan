@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=FF0040&height=200&section=header&text=Welcome to Leona's GitHub!%&fontSize=40&fontColor=FFFFFF&fontAlign=65&fontAlignY=41" />
 
 
-### 💎All About my `GitHub!`💎
+<h2>💎All About my GitHub!💎</h2>
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats-pedz-alimhanhan.vercel.app/api?username=alimhanhan&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
