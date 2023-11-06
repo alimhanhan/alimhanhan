@@ -61,6 +61,10 @@
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=FFFFFF"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
+</p>
+<p>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
@@ -68,6 +72,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pythonanywhere-1D9FD7?style=flat-square&logo=pythonanywhere&logoColor=white"/></a>&nbsp
 </p>
 <br>
 <h3># SNS & Messenger & Blog</h3>
