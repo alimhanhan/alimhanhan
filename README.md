@@ -45,12 +45,12 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=FFFFFF"/></a>&nbsp</td>
   </tr>
   <tr>
-    <th>Embedded System</th>
-    <td><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp</td>
     <th>Text Editor</th>
     <td><img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp</td>
+    <th>Embedded System</th>
+    <td><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp</td>
   </tr>
 <tr>
     <th>Operating System</th>
@@ -81,7 +81,7 @@
 </table>
 <br><br>
 
-<h3># SNS & Messenger & Blog</h3><hr>
+<h3># SNS & Messenger & Blog</h3>
 <p>
   <a href="https://alim11.tistory.com/"><img src="https://img.shields.io/badge/Personal%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://alim11.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/convertme11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
