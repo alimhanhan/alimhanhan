@@ -49,20 +49,20 @@
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp</td>
   </tr>
 <tr>
-    <th>OS</th>
-    <td colspan="3"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp</td>
-  </tr>
-<tr>
   <th>Virtualization</th>
     <td><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/></a>&nbsp</td>
   <th>Analysis Tool</th>
   <td><img src="https://img.shields.io/badge/Burp Suite-00979D?style=flat-square&logo=Buefy&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></a>&nbsp</td>
+  </tr>
+  <tr>
+    <th>OS</th>
+    <td colspan="3"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp</td>
   </tr>
    <tr>
     <th>IDE</th>
