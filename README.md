@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=FFFFFF"/></a>&nbsp</td>
   </tr>
   <tr>
-    <th>Text Editor</th>
+    <th>Editor</th>
     <td><img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp</td>
     <th>Embedded</th>
