@@ -32,9 +32,9 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp</td>
-    <th>Container</th>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=000000"/></a>&nbsp</td>
+    <th>Cloud</th>
+    <td>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>&nbsp</td>
   </tr>
   <tr>
     <th>VCS</th>
@@ -47,20 +47,16 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=FFFFFF"/></a>&nbsp</td>
   </tr>
   <tr>
-    <th>Cloud</th>
-    <td>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>&nbsp</td>
-    <th>Embedded</th>
-    <td><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp</td>
-  </tr>
-  <tr>
     <th>OS</th>
-    <td colspan="3"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF"/></a>&nbsp
+    <td>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp</td>
+    <th>Embedded</th>
+    <td><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp</td>
   </tr>
 </table>
 <br><br>
